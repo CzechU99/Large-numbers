@@ -1,0 +1,4 @@
+﻿  problemB.cpp
+C:\Users\komputer\Desktop\problemy II\problemB\problemB\problemB\problemB.cpp(107,29): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\komputer\Desktop\problemy II\problemB\problemB\problemB\problemB.cpp(238,25): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  problemB.vcxproj -> C:\Users\komputer\Desktop\problemy II\problemB\problemB\x64\Debug\problemB.exe
